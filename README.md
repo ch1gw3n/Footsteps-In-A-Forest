@@ -1,6 +1,6 @@
 # Footsteps of a Forest
 
-**Footsteps of a Forest** is a generative art project that visualizes step count data over time, represented through growing trees. Each tree grows as a metaphor for personal movement and activity, where every branch represents a step, and the branching patterns evolve over time based on step count data. The project combines personal data with nature-inspired visualizations, generating trees that "grow" as data is received.
+**Footsteps of a Forest** is a generative art, data self portrait project that visualizes step count data over time, represented through growing trees. Each tree grows as a metaphor for personal movement and activity, where every branch represents a step, and the branching patterns evolve over time based on step count data. The project combines personal data with nature-inspired visualizations, generating trees that "grow" as data is received.
 
 !! Details can be found in README.pdf !!
 
